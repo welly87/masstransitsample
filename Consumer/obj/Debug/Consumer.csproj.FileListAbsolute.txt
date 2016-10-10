@@ -1,0 +1,16 @@
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Consumer.exe.config
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Consumer.exe
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Consumer.pdb
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Contract.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\MassTransit.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\MassTransit.RabbitMqTransport.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\NewId.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Newtonsoft.Json.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\RabbitMQ.Client.dll
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Contract.pdb
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\MassTransit.xml
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\MassTransit.RabbitMqTransport.xml
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\bin\Debug\Newtonsoft.Json.xml
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\obj\Debug\Consumer.exe
+c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Consumer\obj\Debug\Consumer.pdb
