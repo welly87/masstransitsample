@@ -1,5 +1,0 @@
-c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Contract\bin\Debug\Contract.dll
-c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Contract\bin\Debug\Contract.pdb
-c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
-c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Contract\obj\Debug\Contract.dll
-c:\users\welly\documents\visual studio 2015\Projects\ConsoleApplication3\Contract\obj\Debug\Contract.pdb
